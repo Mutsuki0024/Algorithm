@@ -26,6 +26,7 @@
 | `分布式&高并发/` | 分布式系统与高并发设计 |
 | `设计模式/` | 设计模式 |
 | `Agent/` | AI Agent / LLM 应用 |
+| `Langchain/` | LangChain 框架 |
 | `UE/` | Unreal Engine |
 
 新增领域时，新建同级文件夹并在上表中补充一行。
